@@ -1,0 +1,8 @@
+*/node_modules
+whatsapp*/
+mongodb*/
+*.zip
+*.exe
+*.msi
+*.lock
+pwd.txt
